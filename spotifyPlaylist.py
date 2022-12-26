@@ -1,5 +1,5 @@
 #to apply to 2 other playlists, just change playlist URIs (24-5) & playlist URI (ln 43) to new ones
-#all code taken from Kaylan https://www.youtube.com/watch?v=jSOrEmKUd_c
+#basic code taken from Kaylan https://www.youtube.com/watch?v=jSOrEmKUd_c
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
